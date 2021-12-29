@@ -1,7 +1,7 @@
 # CPSC 210 Personal Project
 ## AftFlight *by n9p0w*
 
-This application is a local cross-country flight-planner. <br>
+This application is a local cross-country flight-planner using the java swing library. <br>
 
 
 The main use for this application is to automatically generate a flight plan between any two airports
